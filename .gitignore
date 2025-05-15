@@ -135,5 +135,6 @@ dist/**/*
 !dist/.keeps
 build
 *.json
+!package.json
 .vscode/
 *.zip
